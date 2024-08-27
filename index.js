@@ -63,6 +63,3 @@ async function startBot() {
 }
 
 startBot();
-
-// Экспортируем пустую функцию, чтобы Vercel не выдавал ошибку
-module.exports = () => {};
